@@ -1,0 +1,61 @@
+# Site wide configuration
+
+title:            Minimal Mistakes
+locale:           en_US
+url:              //mmistakes.github.io/minimal-mistakes
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Michael Rose
+  avatar: bio-photo.jpg
+  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
+  disqus-shortname: minimalmistakes
+  twitter: mmistakes
+  facebook: michaelrose
+  google:
+    plus: MichaelRoseDesign
+    analytics: UA-2011187-3
+    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+    ad-client: ca-pub-7328585512091257
+    ad-slot: 7855747535
+  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  github: mmistakes
+  instagram: mmistakes
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
