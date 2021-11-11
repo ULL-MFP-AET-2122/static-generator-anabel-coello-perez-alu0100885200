@@ -5,6 +5,6 @@ permanlink: /docencia
 toc: true
 ---
 
-{%- for post in site.categories["docencia"] %}
-* [{{{post.title}}}]{{{post.url}}}
+{%- for post in site.categories ["docencia"] %}
+* [{{post.title}}]({{post.url}})
 {% endfor %}
