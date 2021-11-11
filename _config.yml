@@ -288,5 +288,5 @@ defaults:
       comments: # true
       share: true
       related: true
-      permanlink: :year/:month/:day/:title
+      permanlink: :categories/ :title
 
