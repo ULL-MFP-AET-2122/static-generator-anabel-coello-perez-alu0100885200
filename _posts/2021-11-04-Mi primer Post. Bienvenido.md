@@ -7,7 +7,7 @@ title: "Mi primer post. Presentación"
 
 Hoy es el primer día en el que conocemos el funcionamiento de Jekyll. Hemos tenido algunos problemas informáticos en la anterior clase con el cañón, aunque afortunadamente, hoy ha funcionado. 
 
-El título que he puesto ha este post es *{{page.title}}* . Les dejo por aquí un vídeo muy interesante de BBVA, **Por qué es tan importante aprender a escuchar**, para cuando seamos futuros docentes.
+El título que he puesto a este post es *{{page.title}}*. Les dejo por aquí un vídeo muy interesante de BBVA, **Por qué es tan importante aprender a escuchar**, para cuando seamos futuros docentes.
 
  <span style="color:red"> **¡Pulsa en la siguiente imagen!** 
 [![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEgcLT3zn9kTGCdxEACfaGw9pkt3BtJMehA&usqp=CAU)](https://youtu.be/LtMQDPAnauE)
