@@ -1,4 +1,5 @@
 ---
+title: "Post de Prueba"
 alumnos: 20
 titulo: "Aprendiendo" 
 chuchu: 4
