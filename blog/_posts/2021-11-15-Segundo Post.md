@@ -47,7 +47,11 @@ Tranquilo, fuera pánico, Naciones Unidas ha pensado en todo o en casi todo 😉
 
 Ahora que tienes un poco más de información, **¿cúal de los 17 Objetivos te resulta más interesante? ¿crees que cumpliremos con el plazo?**
 
-En mi caso tengo especial interés por el segundo *Hambre Cero*. 
+En mi caso tengo especial interés por el segundo *Hambre Cero*. Te voy a dejar por aquí unos link de la FAO.
+
+https://www.fao.org/3/i9752es/I9752ES.pdf
+
+https://www.fao.org/documents/card/es/c/I9752ES/
 
 Espero que esto te haya resultado útil. Si hay algún tema en concreto que te interese estoy a tu disposición. **¡Hasta pronto!**
 
