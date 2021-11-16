@@ -49,9 +49,11 @@ Ahora que tienes un poco más de información, **¿cúal de los 17 Objetivos te 
 
 En mi caso tengo especial interés por el segundo *Hambre Cero*. Te voy a dejar por aquí unos link de la FAO.
 
-https://www.fao.org/3/i9752es/I9752ES.pdf
+<a href="https://www.fao.org/3/i9752es/I9752ES.pdf"> Guia de la FAO</a>
 
-https://www.fao.org/documents/card/es/c/I9752ES/
+<a href="https://www.fao.org/documents/card/es/c/I9752ES/"> Libros de actividades relacionadas</a>
+
+
 
 Espero que esto te haya resultado útil. Si hay algún tema en concreto que te interese estoy a tu disposición. **¡Hasta pronto!**
 
