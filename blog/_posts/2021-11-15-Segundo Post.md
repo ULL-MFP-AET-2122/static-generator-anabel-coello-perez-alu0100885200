@@ -36,10 +36,13 @@ src="https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/201
 <p> 
 <div align="center"/> 
 <img 
-width="20%"
+width="35%"
 src="https://media.giphy.com/media/H4Kv4vt6k9d49DHIMO/giphy.gif">
 </p>
 
+Tranquilo, fuera pánico, Naciones Unidas ha pensado en todo o en casi todo 😉. " **La Guía de los Vagos para Salvar el Mundo**" te ayudará de forma sencilla a ser parte del cambio. 
+
+<span style="color:brown"> **Pulsa en la siguiente imagen, y échale un vistazo:** [![](https://www.un.org/sites/un2.un.org/files/lazy-guide_sp-e1533832436696.gif)](https://www.un.org/sustainabledevelopment/es/takeaction/)
 
 Espero que esto te haya resultado útil. Si hay algún tema en concreto que te interese estoy a tu disposición. **¡Hasta pronto!**
 
